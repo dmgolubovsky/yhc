@@ -1,0 +1,3 @@
+# Introduction #
+
+The real Yhc wiki is on haskell.org, see http://haskell.org/haskellwiki/Yhc
